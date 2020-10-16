@@ -1,4 +1,4 @@
-package com.revengeos.revengeui
+package com.kangos.uidemo
 
 import org.junit.Test
 

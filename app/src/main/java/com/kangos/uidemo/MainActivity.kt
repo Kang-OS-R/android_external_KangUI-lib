@@ -1,9 +1,9 @@
-package com.revengeos.uidemo
+package com.kangos.uidemo
 
 import android.os.Bundle
 import android.view.*
 import androidx.appcompat.app.AppCompatActivity
-import com.revengeos.revengeui.utils.ThemeUtils
+import com.kangos.revengeui.utils.ThemeUtils
 import kotlinx.android.synthetic.main.activity_main.*
 
 

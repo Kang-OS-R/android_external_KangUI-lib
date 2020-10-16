@@ -1,10 +1,10 @@
-package com.revengeos.uidemo
+package com.kangos.uidemo
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentPagerAdapter
 
-import com.revengeos.uidemo.items.*
+import com.kangos.uidemo.items.*
 
 class DemoFragmentsPager(fragmentManager: FragmentManager) : FragmentPagerAdapter(fragmentManager) {
 

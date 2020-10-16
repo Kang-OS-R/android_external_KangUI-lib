@@ -1,4 +1,4 @@
-package com.revengeos.revengeui.effect
+package com.kangos.revengeui.effect
 
 import android.animation.ObjectAnimator
 import android.os.Handler

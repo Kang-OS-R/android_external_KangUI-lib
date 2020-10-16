@@ -1,4 +1,4 @@
-package com.revengeos.uidemo.items
+package com.kangos.uidemo.items
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,9 +6,9 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 
-import com.revengeos.uidemo.R
+import com.kangos.uidemo.R
 
-class SlidersDemoFragment : Fragment() {
+class ButtonsDemoFragment : Fragment() {
 
     override fun onCreateView(
         inflater: LayoutInflater,
@@ -16,6 +16,6 @@ class SlidersDemoFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.sliders_demo, container, false)
+        return inflater.inflate(R.layout.buttons_demo, container, false)
     }
 }

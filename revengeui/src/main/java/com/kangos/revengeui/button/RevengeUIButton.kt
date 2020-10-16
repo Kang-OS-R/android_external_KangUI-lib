@@ -1,11 +1,11 @@
-package com.revengeos.revengeui.button
+package com.kangos.revengeui.button
 
 import android.content.Context
 import android.util.AttributeSet
 import androidx.appcompat.widget.AppCompatButton
 
-import com.revengeos.revengeui.R
-import com.revengeos.revengeui.effect.SpringEffectProvider
+import com.kangos.revengeui.R
+import com.kangos.revengeui.effect.SpringEffectProvider
 
 /**
  * TODO: document your custom view class.
